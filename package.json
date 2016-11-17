@@ -1,0 +1,23 @@
+{
+  "name": "andykay.me",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noxplode/andykay.me.git"
+  },
+  "author": "Andy Kay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/noxplode/andykay.me/issues"
+  },
+  "homepage": "https://andykay.me",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
