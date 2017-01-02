@@ -35,3 +35,9 @@ jspm_packages
 
 # Optional REPL history
 .node_repl_history
+
+# Next.js files
+.next
+
+# DS_Store file
+.DS_Store
